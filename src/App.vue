@@ -23,7 +23,7 @@
         </div>
         <div class="phone-body">
           <div class="message-text-sent">
-            That sounds great. I'd be happy to discuss more.
+            That sounds great. I'd be happy with that.
           </div>
           <div class="message-text-sent">
             Could you send over some pictures of your dog, please?
