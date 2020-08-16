@@ -7,7 +7,7 @@
             <i class="icon-left-open" />
           </div>
           <div class="header-avatar">
-            <img src="@/assets/images/avatar.jpg" />
+            <img src="@/assets/images/avatar.jpg" alt="avatar" />
           </div>
           <div class="header-text">
             <div class="header-text-title">
@@ -29,9 +29,9 @@
             Could you send over some pictures of your dog, please?
           </div>
           <div class="message-pictures">
-            <img src="@/assets/images/dog-image-1.jpg" />
-            <img src="@/assets/images/dog-image-2.jpg" />
-            <img src="@/assets/images/dog-image-3.jpg" />
+            <img src="@/assets/images/dog-image-1.jpg" alt="dog image 1" />
+            <img src="@/assets/images/dog-image-2.jpg" alt="dog image 2" />
+            <img src="@/assets/images/dog-image-3.jpg" alt="dog image 3" />
           </div>
           <div class="message-text-received">
             Here are a few pictures. She's a happy girl!
