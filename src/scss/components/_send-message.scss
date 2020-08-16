@@ -1,0 +1,25 @@
+.send-message {
+  display: flex;
+  align-items: center;
+  width: 93%;
+  // padding: 13px 4px 9px 20px;
+  padding: 4px 6px 4px 16px;
+  background-color: #fff;
+  border-radius: 16px;
+}
+.send-message-placeholder {
+  font-size: 9px;
+  color: #c5c9cc;
+}
+.send-message-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  margin-left: auto;
+  font-size: 11px;
+  color: #fff;
+  background-color: #3e2753;
+  border-radius: 50%;
+}
